@@ -7,4 +7,4 @@
 * vite
 * Framer motion
 
-* Landing page basada en una  página de viajes
+Landing page basada en una  página de viajes
